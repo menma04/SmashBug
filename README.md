@@ -1,1 +1,1 @@
-# Insect-game
+# SmashBug
